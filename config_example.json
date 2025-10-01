@@ -1,0 +1,11 @@
+{
+    "base_url": "https://example.com",
+    "output_dir": "output",
+    "delay": 1,
+    "urls": [
+        "/page1",
+        "/page2",
+        "/blog/post1",
+        "https://example.com/absolute-url"
+    ]
+}
